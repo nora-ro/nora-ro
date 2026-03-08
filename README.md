@@ -36,9 +36,11 @@ I’m a Computer Science student driven by the logic of **System Design** and th
 ---
 
 ### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nora-ro&show_icons=true&theme=radical" alt="Nora's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nora-ro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Nora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nora-ro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nora-ro&layout=compact&theme=radical)
 
 ---
 
@@ -47,4 +49,4 @@ I’m a Computer Science student driven by the logic of **System Design** and th
 - 📧 [Email](n14930070@gmail.com)
 
 *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci 💡
-n14930070@gmail.com
+
